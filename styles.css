@@ -1,0 +1,149 @@
+
+
+:root {
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFFFF;
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:  #4d5ae5;
+
+}
+.link {
+    text-decoration: none
+}
+
+.secondpart {
+    color: #2e2f42;
+}
+
+.list {
+    list-style: none;
+}
+
+.indexl {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.indexl:hover, .indexl:focus{
+    color: #404bbf;
+}
+
+address {
+    font-style: normal;
+}
+.mail {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.mail:hover, .mail:focus {
+    color: #404bbf;
+}
+
+
+
+.unos {
+    background-color: #2e2f42;
+}
+
+.unost {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.unosb {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.unosb:hover, .unosb:focus {
+    color: #404bbf
+}
+
+.dos {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.dosp {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+
+.tres {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.quattro {
+    background-color: #F4F4FD;
+}
+.quattroi {
+    background-color: #FFFFFFFF;
+}
+.quattroo {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.feet {
+    background-color: #2e2f42;
+}
+
+.secondparti {
+    color: #f4f4f4fd;
+}
+
+.feetflow {
+
+line-height: 1.5;
+color: #F4F4FD;
+letter-spacing: 0.02em;
+
+}
+
+}
+
+
