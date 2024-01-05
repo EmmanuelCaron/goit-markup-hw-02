@@ -3,7 +3,7 @@
 body:root {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: #FFFFFFFF;
+    background-color: #ffffffff;
 }
 
 .logo {
@@ -173,7 +173,7 @@ body {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
@@ -253,4 +253,8 @@ body {
 
  .secondpartii {
 color: #f4f4f4fd;
+ }
+
+ span {
+    color: #f4f4f4fd;
  }
