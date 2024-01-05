@@ -146,4 +146,112 @@ letter-spacing: 0.02em;
 
 }
 
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
 
+}
+
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.link {
+
+    text-decoration: none;
+}
+
+.secondpart {
+    color: ;#f2e2f42;
+}
+
+.stu {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: #2e2f42;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.stu:hover, .stu:focus {
+    color: #404bbf;
+}
+ .addr {
+    font-style: normal;
+ }
+
+ .list {
+    list-style: none;
+ }
+ .mma {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+ }
+ 
+ .link {
+    text-decoration: none;
+ }
+
+ .mma:hover, .mma:focus {
+    color:#404bbf;
+ }
+
+ .butone {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #f4f4fd;
+ }
+
+ .butone:hover, .butone:focus {
+    color: #ffffffff;
+    background-color: #404bbf;
+    cursor: pointer;  
+ }
+
+ .banktitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+ }
+
+ .paraclass {
+    font-size: 16;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+ }
+
+ .morefeet {
+    background-color: #2e2f42;
+ }
+
+ .logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+ }
+
+ .secondpartii {
+color: #f4f4f4fd;
+ }
