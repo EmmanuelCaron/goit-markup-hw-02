@@ -82,11 +82,11 @@ body:root {
 }
 
 .unosb:hover {
-    color: #404bbf
+    background-color: #404bbf
 }
 
 .unosb:focus {
-    color: #404bbf
+    background-color: #404bbf
 }
 
 .dos {
