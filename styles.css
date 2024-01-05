@@ -81,7 +81,11 @@ body:root {
     cursor: pointer;
 }
 
-.unosb:hover .unosb:focus {
+.unosb:hover {
+    color: #404bbf
+}
+
+.unosb:focus {
     color: #404bbf
 }
 
