@@ -1,8 +1,6 @@
 
 
-:root {
-
-body {
+body:root {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFFFF;
@@ -46,9 +44,7 @@ body {
     color: #404bbf;
 }
 
-address {
-    font-style: normal;
-}
+
 .mail {
     font-size: 16px;
     line-height: 1.5;
@@ -144,7 +140,6 @@ letter-spacing: 0.02em;
 
 }
 
-}
 
 body {
     font-family: "Roboto", sans-serif;
@@ -167,7 +162,7 @@ body {
 }
 
 .secondpart {
-    color: ;#f2e2f42;
+    color: #2e2f42;
 }
 
 .stu {
