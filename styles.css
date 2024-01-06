@@ -1,10 +1,10 @@
 
 :root {
-    --mybackgroundcolor-color: #ffffffff;
+    --mybackgroundcolor-background-color: #ffffffff;
     --bluecolor-color: #4d5ae5; 
 }
 body {
-    background-color: var(--mybackgroundcolor);
+    background-color: var(--mybackgroundcolor-background-color);
     font-family: "Roboto", sans-serif;
     color: #434455
 }
