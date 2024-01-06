@@ -1,10 +1,11 @@
 
 :root {
-    font-family: "Roboto", sans-serif;
-    color: #434455;
+    --mybackgroundcolor: #ffffffff;
 }
 body {
-    background-color: #ffffffff;
+    background-color: var(--mybackgroundcolor);
+    font-family: "Roboto", sans-serif;
+    color: #434455
 }
 
 .logo {
