@@ -154,7 +154,7 @@ letter-spacing: 0.02em;
 
 body {
     font-family: "Roboto", sans-serif;
-    color: #434455;
+    color: var(--lightgray-color);
 
 }
 
@@ -165,7 +165,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color: var(--bluecolor-color);
 }
 .link {
 
@@ -173,7 +173,7 @@ body {
 }
 
 .secondpart {
-    color: #2e2f42;
+    color: var(--gray-color);
 }
 
 .stu {
@@ -181,7 +181,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: var(--gray-color);
 }
 
 .link {
@@ -202,7 +202,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: var(--lightgray-color);
  }
  
  .link {
@@ -219,8 +219,8 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #4d5ae5;
-    background-color: #f4f4fd;
+    color: var(--bluecolor-color);
+    background-color: var(--white-color);
  }
 
  .butone:hover, .butone:focus {
@@ -234,18 +234,18 @@ body {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: var(--gray-color);
  }
 
  .paraclass {
     font-size: 16;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: var(--lightgray-color);
  }
 
  .morefeet {
-    background-color: #2e2f42;
+    background-color: var(--gray-color);
  }
 
  .logo {
@@ -255,6 +255,6 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color: var(--bluecolor-color);
  }
 
