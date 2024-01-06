@@ -3,6 +3,9 @@
     --mybackgroundcolor-background-color: #ffffffff;
     --bluecolor-color: #4d5ae5; 
     --gray-color: #2e2f42;
+    --darkblue-color: #404bbf;
+    --lightgray-color: #434455;
+    --white-color: #f4f4fd;
 }
 body {
     background-color: var(--mybackgroundcolor-background-color);
@@ -53,7 +56,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: var(--lightgray-color);
 }
 
 .mail:hover, .mail:focus {
@@ -63,7 +66,7 @@ body {
 
 
 .unos {
-    background-color: #2e2f42;
+    background-color: var(--gray-color);
 }
 
 .unost {
@@ -86,11 +89,11 @@ body {
 }
 
 .unosb:hover {
-    background-color: #404bbf
+    background-color: #404bbf;
 }
 
 .unosb:focus {
-    background-color: #404bbf
+    background-color: #404bbf;
 }
 
 .dos {
@@ -98,14 +101,14 @@ body {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: var(--gray-color);
 }
 
 .dosp {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: var(--lightgray-color);
 }
 
 
@@ -115,7 +118,7 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: #2e2f42;
+    color: var(--gray-color);
 }
 
 .quattro {
@@ -129,11 +132,11 @@ body {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: var(--gray-color);
 }
 
 .feet {
-    background-color: #2e2f42;
+    background-color: var(--gray-color);
 }
 
 .whitecolor {
@@ -143,7 +146,7 @@ body {
 .feetflow {
 
 line-height: 1.5;
-color: #F4F4FD;
+color: var(--white-color);
 letter-spacing: 0.02em;
 
 }
