@@ -1,6 +1,7 @@
 
 :root {
-    --mybackgroundcolor: #ffffffff;
+    --mybackgroundcolor-color: #ffffffff;
+    --bluecolor-color: #4d5ae5; 
 }
 body {
     background-color: var(--mybackgroundcolor);
@@ -15,7 +16,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color:  #4d5ae5;
+    color: var(--bluecolor-color);
 
 }
 .link {
