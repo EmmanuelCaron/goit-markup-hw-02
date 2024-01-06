@@ -7,7 +7,6 @@
     --lightgray-color: #434455;
     --white-color: #f4f4fd;
     --new-color: #434455;
-    --another-color: 
 }
 body {
     background-color: var(--mybackgroundcolor-background-color);
@@ -240,7 +239,7 @@ body {
  }
 
  .paraclass {
-    font-size: 16;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--lightgray-color);
