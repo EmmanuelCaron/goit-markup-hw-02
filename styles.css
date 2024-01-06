@@ -2,6 +2,7 @@
 :root {
     --mybackgroundcolor-background-color: #ffffffff;
     --bluecolor-color: #4d5ae5; 
+    --gray-color: #2e2f42;
 }
 body {
     background-color: var(--mybackgroundcolor-background-color);
@@ -20,11 +21,11 @@ body {
 
 }
 .link {
-    text-decoration: none
+    text-decoration: none;
 }
 
 .secondpart {
-    color: #2e2f42;
+    color: var(--gray-color);
 }
 
 .list {
@@ -36,7 +37,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: var(--gray-color);
 }
 
 .link {
